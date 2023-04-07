@@ -4,7 +4,6 @@ Nice to meet you. My name is Faiyaaz Haque. Welcome to my journey into software 
 
 
 - 🔭 I’m currently working on [Ani-Next](https://github.com/FaiyaazHawk/Ani-Next)
-- 🌱 I’m currently learning AWS
 - 📫 How to reach me: [My portfolio site](https://www.faiyaaz.ca/)
 - 😄 Pronouns: He/Him
 
