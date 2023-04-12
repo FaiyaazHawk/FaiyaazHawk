@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Nice to meet you. My name is Faiyaaz Haque. Here's a little about me
+Nice to meet you. My name is Faiyaaz Haque. Here's a little about me,
 
 
 - 🔭 I’m currently working on [Ani-Next](https://github.com/FaiyaazHawk/Ani-Next)
