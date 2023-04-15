@@ -9,3 +9,5 @@ Nice to meet you. My name is Faiyaaz Haque. Here's a little about me,
 - 😄 Pronouns: He/Him
 
 [![Faiyaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaiyaazHawk&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaiyaazHawk)](https://github.com/anuraghazra/github-readme-stats)
