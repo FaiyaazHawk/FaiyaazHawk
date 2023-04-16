@@ -5,7 +5,7 @@ Nice to meet you. My name is Faiyaaz Haque. Here's a little about me,
 
 - 🔭 I’m currently working on [Ani-Next](https://github.com/FaiyaazHawk/Ani-Next)
 - ⤻ͣ  I'm looking to learn AWS in 2023
-- 📫 How to reach me: [My portfolio site](https://www.faiyaaz.ca/)
+- 📫 How to reach me: [My portfolio site](https://www.faiyaaz.ca/) or email me directly faiyaaz.haque90@gmail.com
 - 😄 Pronouns: He/Him
 
 ### Here's some stats:
