@@ -34,7 +34,7 @@
         <br>
 <a target="_blank" href="https://ani-next-five.vercel.app/"></a>
 
-https://github.com/FaiyaazHawk/personal-portfolio/blob/main/src/components/assets/gifs/ani-next.gif
+<img src="https://github.com/FaiyaazHawk/personal-portfolio/blob/main/src/components/assets/gifs/ani-next.gif" >
 
   <p align="center">
   <a href="https://github.com/FaiyaazHawk/Ani-Next" target="_blank">
@@ -52,7 +52,7 @@ https://github.com/FaiyaazHawk/personal-portfolio/blob/main/src/components/asset
         <br>
 <a target="_blank" href="https://message-board-a9ln.onrender.com/"></a>
 
-https://github.com/FaiyaazHawk/personal-portfolio/blob/main/src/components/assets/gifs/message-board.gif
+<img src="https://github.com/FaiyaazHawk/personal-portfolio/blob/main/src/components/assets/gifs/message-board.gif" >
 
   <p align="center">
   <a href="https://github.com/FaiyaazHawk/message-board" target="_blank">
@@ -99,10 +99,12 @@ https://github.com/FaiyaazHawk/personal-portfolio/blob/main/src/components/asset
 
 
 
-<h4 align="right">Check Out My Projects Down There 🙇🏻‍♂️</h4>
+
 
 ### Here's some stats:
 
 [![Faiyaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaiyaazHawk&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaiyaazHawk&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<h4 align="right">Check Out My Projects Down There 🙇🏻‍♂️</h4>
