@@ -20,9 +20,9 @@
 <br/>
 🧑🏻‍💻&nbsp; My current job is being a Chargeback Specialist at the Bank of Montreal.
 <br/>
-🌱&nbsp; I’m learning AWS at the moment and sharpening my fundamental knowledge JS.
+🌱&nbsp; I’m learning AWS at the moment and sharpening my fundamental knowledge of Python.
 <br/>
-💞️&nbsp; When I'm not coding, I enjoy hanging out with my friends, taking photos and crafting things and stuffs.
+💞️&nbsp; When I'm not coding, I enjoy hanging out with my friends playing Overwatch 2, watching hockey and building Gunpla models.
 <br/>
 🏳️‍🌈&nbsp; He/Him
 
