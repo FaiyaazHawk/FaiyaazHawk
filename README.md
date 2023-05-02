@@ -1,6 +1,6 @@
 <h1 align="center">👀 Hey, It's nice seeing you here 👋 I'm Faiyaaz. </h1>
 
-<h3 align="center">I'm a Software Engineer with a love for Toronto Maple Leafs 🏒 and anime 🗻</h3>
+<h3 align="center">I'm a Software Engineer with a love for the Toronto Maple Leafs 🏒 and anime 🗻</h3>
 
 <p align="center">
  ✨
