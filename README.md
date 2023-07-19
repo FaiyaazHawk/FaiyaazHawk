@@ -18,7 +18,7 @@
 
 🧑🏻‍🎓&nbsp; I'm currently open for hire.
 <br/>
-🧑🏻‍💻&nbsp; My current job is being a Chargeback Specialist at the Bank of Montreal.
+🧑🏻‍💻&nbsp; My current job is being a Chargeback Specialist at the Bank of Montreal and Full Stack Software Engineer at multplAI.
 <br/>
 🌱&nbsp; I’m learning AWS at the moment and increasing my fundamental knowledge of Python.
 <br/>
