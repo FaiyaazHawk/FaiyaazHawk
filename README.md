@@ -18,11 +18,11 @@
 
 🧑🏻‍🎓&nbsp; I'm currently open for hire.
 <br/>
-🧑🏻‍💻&nbsp; My current job is being a Chargeback Specialist at the Bank of Montreal and Full Stack Software Engineer at multplAI.
+🧑🏻‍💻&nbsp; My previous job was being a Chargeback Specialist at Wave Financial and Full Stack Software Engineer at multplAI.
 <br/>
 🌱&nbsp; I’m learning AWS at the moment and increasing my fundamental knowledge of Python.
 <br/>
-💞️&nbsp; When I'm not coding, I enjoy hanging out with my friends playing Overwatch 2, watching hockey and building Gunpla models.
+💞️&nbsp; When I'm not coding, I enjoy hanging out with my friends playing Warframe, watching hockey and building Gunpla models.
 <br/>
 🏳️‍🌈&nbsp; He/Him
 
